@@ -3,7 +3,7 @@
   "private": false,
   "devDependencies": {
     "@changesets/changelog-github": "^0.4.4",
-    "@changesets/cli": "^2.20.0",
+    "@changesets/cli": "^2.29.2",
     "sync-cordova-xml2": "^0.0.3",
     "turbo": "^1.6.3"
   },
